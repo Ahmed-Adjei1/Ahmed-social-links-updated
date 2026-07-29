@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-[active: \Designs\active.PNG]
-[desktop: \Designs\desktop.PNG]
-[mobile: \Designs\mobile.PNG]
+[active: \Designs\active.png]
+[desktop: \Designs\desktop.png]
+[mobile: \Designs\mobile.png]
 
 
 ### Links
