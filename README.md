@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-[active: \Designs\active.png]
+[Designs\active.png]
 [desktop: \Designs\desktop.png]
 [mobile: \Designs\mobile.png]
 
